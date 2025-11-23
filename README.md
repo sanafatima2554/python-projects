@@ -1,2 +1,2 @@
 # python-projects
-This is may startup for building projects in python.
+This is my startup for building projects in python.
